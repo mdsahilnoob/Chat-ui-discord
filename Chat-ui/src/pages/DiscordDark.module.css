@@ -1,0 +1,448 @@
+.slightlySmilingFace {
+  position: absolute;
+  top: 11px;
+  left: 1462px;
+  width: 22px;
+  height: 22px;
+}
+.svgicon,
+.svgicon1 {
+  position: absolute;
+  top: 10px;
+  left: 1423px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.svgicon1 {
+  left: 1384px;
+}
+.messageGeneral {
+  position: absolute;
+  width: 89.66%;
+  top: 12px;
+  left: 0.93%;
+  display: inline-block;
+}
+.divcontainer,
+.divcontainer1,
+.divicon {
+  position: absolute;
+  top: 0;
+  height: 44px;
+  overflow: hidden;
+}
+.divcontainer1 {
+  left: 45px;
+  background-color: #40444b;
+  width: 1499px;
+}
+.divcontainer,
+.divicon {
+  left: 0;
+  width: 44px;
+}
+.divcontainer {
+  top: 836px;
+  left: 16px;
+  border-radius: 8px;
+  width: 1544px;
+}
+.emptyMessageIcon {
+  position: absolute;
+  top: 703px;
+  left: 16px;
+  width: 1540.1px;
+  height: 117.8px;
+  object-fit: cover;
+}
+.divbar {
+  position: absolute;
+  top: 48.5px;
+  left: -0.5px;
+  border-top: 1px solid #303239;
+  box-sizing: border-box;
+  width: 1577px;
+  height: 1px;
+}
+.svgicon2 {
+  top: 0;
+  left: 324px;
+  width: 24px;
+  height: 24px;
+}
+.svgicon2,
+.svgicon3,
+.svgicon4 {
+  position: absolute;
+  overflow: hidden;
+}
+.svgicon3 {
+  top: 0;
+  left: 286px;
+  width: 24px;
+  height: 24px;
+}
+.svgicon4 {
+  top: 3px;
+  right: 6px;
+  width: 18px;
+  height: 18px;
+}
+.search {
+  position: absolute;
+  top: 4px;
+  left: 6px;
+  font-weight: 500;
+}
+.divsearchbar {
+  position: absolute;
+  top: 0;
+  right: 88px;
+  border-radius: 3px;
+  background-color: var(--color-gray-200);
+  width: 144px;
+  height: 24px;
+  overflow: hidden;
+}
+.divtoolbar,
+.svgicon5,
+.svgicon6,
+.svgicon7 {
+  position: absolute;
+  top: 0;
+  left: 90px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.divtoolbar,
+.svgicon6,
+.svgicon7 {
+  left: 52px;
+}
+.divtoolbar,
+.svgicon7 {
+  left: 14px;
+}
+.divtoolbar {
+  top: 12px;
+  left: 1200px;
+  width: 360px;
+}
+.general {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.divchildren,
+.h3title {
+  position: absolute;
+  top: 2px;
+  left: 44px;
+  width: 58px;
+  height: 20px;
+  overflow: hidden;
+}
+.divchildren {
+  top: 12px;
+  left: 0;
+  width: 1190px;
+  height: 24px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.divchat,
+.divtitlecontainer {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.divtitlecontainer {
+  left: 8px;
+  width: 1560px;
+  height: 48px;
+  font-size: var(--font-size-xs);
+  color: #6f737a;
+}
+.divchat {
+  right: 0;
+  background-color: #37393f;
+  width: 1576px;
+  height: 900px;
+}
+.divavatarIcon,
+.svgicon10,
+.svgicon11,
+.svgicon9 {
+  position: absolute;
+  top: 16px;
+  left: 238px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.divavatarIcon,
+.svgicon10,
+.svgicon11 {
+  left: 208px;
+}
+.divavatarIcon,
+.svgicon11 {
+  left: 178px;
+}
+.divavatarIcon {
+  top: 10px;
+  left: 20px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.spencercamp {
+  top: 10px;
+  left: 65px;
+  font-weight: 500;
+}
+.div,
+.divpanels,
+.spencercamp {
+  position: absolute;
+}
+.div {
+  top: 27px;
+  left: 65px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  color: #b9bbbe;
+}
+.divpanels {
+  top: 799px;
+  left: 0;
+  background-color: #292b2f;
+  width: 272px;
+  height: 52px;
+  overflow: hidden;
+  font-size: 14px;
+  color: var(--color-white);
+}
+.svgactionicon,
+.svgicon12 {
+  position: absolute;
+  top: 9px;
+  left: 230px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.svgicon12 {
+  left: 210px;
+}
+.general1 {
+  position: absolute;
+  top: 7px;
+  left: 34px;
+  font-weight: 500;
+}
+.frameIcon {
+  height: 70.59%;
+  width: 9.52%;
+  top: 14.71%;
+  right: 88.1%;
+  bottom: 14.71%;
+  left: 2.38%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.divcontent,
+.frameIcon,
+.svgicon13 {
+  position: absolute;
+  overflow: hidden;
+}
+.divcontent {
+  top: 160px;
+  left: 10px;
+  border-radius: var(--br-9xs);
+  width: 252px;
+  height: 34px;
+}
+.svgicon13 {
+  top: 11px;
+  left: 239px;
+  width: 18px;
+  height: 18px;
+}
+.voiceChannels {
+  position: absolute;
+  top: 12px;
+  left: 26px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 190px;
+  height: 16px;
+}
+.divcontainer2,
+.svgicon14 {
+  position: absolute;
+  top: 14px;
+  left: 8px;
+  width: 12px;
+  height: 12px;
+  overflow: hidden;
+}
+.divcontainer2 {
+  top: 120px;
+  left: 0;
+  width: 272px;
+  height: 40px;
+  font-size: var(--font-size-xs);
+}
+.divcontent1,
+.svgicon16 {
+  position: absolute;
+  top: 5px;
+  left: 6px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.divcontent1 {
+  top: 56px;
+  left: 10px;
+  border-radius: var(--br-9xs);
+  background-color: #4f545c;
+  width: 252px;
+  height: 34px;
+  color: var(--color-white);
+}
+.divcontainer3,
+.divscroller {
+  position: absolute;
+  left: 0;
+  width: 272px;
+  overflow: hidden;
+}
+.divcontainer3 {
+  top: 16px;
+  height: 40px;
+  font-size: var(--font-size-xs);
+}
+.divscroller {
+  top: 49px;
+  background-color: var(--color-darkslategray-100);
+  height: 851px;
+}
+.divbar1 {
+  position: absolute;
+  top: 48.5px;
+  left: -0.5px;
+  border-top: 1px solid #222327;
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+}
+.svgbuttonIcon {
+  position: absolute;
+  top: 15px;
+  left: 222px;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.divsidebar,
+.h1name,
+.headerheader {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  width: 186px;
+  height: 20px;
+  overflow: hidden;
+}
+.divsidebar,
+.headerheader {
+  top: 0;
+  left: 16px;
+  width: 240px;
+  height: 48px;
+  color: var(--color-white);
+}
+.divsidebar {
+  left: 72px;
+  background-color: var(--color-darkslategray-100);
+  width: 272px;
+  height: 900px;
+  color: var(--color-gray-100);
+}
+.divlistitemIcon,
+.divlistitemIcon1,
+.divlistitemIcon2,
+.divlistitemIcon3 {
+  position: absolute;
+  top: 154px;
+  left: 0;
+  width: 72px;
+  height: 48px;
+  overflow: hidden;
+}
+.divlistitemIcon1,
+.divlistitemIcon2,
+.divlistitemIcon3 {
+  top: 98px;
+}
+.divlistitemIcon2,
+.divlistitemIcon3 {
+  top: 88px;
+  height: 2px;
+}
+.divlistitemIcon3 {
+  top: 32px;
+  height: 48px;
+}
+.divmacbuttoncloseIcon,
+.navwrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.navwrapper {
+  background-color: var(--color-gray-200);
+  width: 72px;
+  height: 900px;
+}
+.divmacbuttoncloseIcon {
+  width: 12px;
+  height: 12px;
+}
+.divmacbuttonmaximizeIcon,
+.divmacbuttonminimizeIcon,
+.divmacbuttons {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  width: 12px;
+  height: 12px;
+  overflow: hidden;
+}
+.divmacbuttonmaximizeIcon,
+.divmacbuttons {
+  left: 40px;
+}
+.divmacbuttons {
+  top: 10px;
+  left: 10px;
+  width: 52px;
+}
+.discordDark {
+  width: 100%;
+  position: relative;
+  background-color: #e3e5e8;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: #dcddde;
+  font-family: var(--font-helvetica-neue);
+}
